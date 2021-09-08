@@ -18,7 +18,7 @@
 
 ## 💻 Project
 
-Go Restaurant is a app to manage your restaurant plates. This is the fourth challenge of ReactJS track of Ignite course from [Rocketseat](https://rocketseat.com.br/).
+Go Restaurant is an app to manage your restaurant plates. This is the fourth challenge of ReactJS track of Ignite course from [Rocketseat](https://rocketseat.com.br/).
 
 ## :hammer_and_wrench: Features
 
