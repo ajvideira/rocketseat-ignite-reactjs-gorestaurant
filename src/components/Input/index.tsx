@@ -9,10 +9,11 @@ import {
 import { useField } from '@unform/core';
 
 import { Container } from './styles';
+import { IconType } from 'react-icons';
 
 type InputProps = InputHTMLAttributes<HTMLInputElement> & {
   name: string;
-  icon?: any;
+  icon?: IconType;
 };
 
 const Input = ({ name, icon: Icon, ...rest }: InputProps) => {
